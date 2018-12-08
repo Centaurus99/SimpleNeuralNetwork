@@ -1,2 +1,4 @@
-# Simple-neural-network
+# Simple-neural-network V1.0
 手写C++神经网络数字识别
+### 使用说明
+咕咕咕咕
